@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Victor Macedo  
 
-**`Analista de Dados`**  
+**`Data Analytics`**  
 
 ## 💡 Sobre mim  
 Sou **João Victor Macedo**, analista de dados especializado em **Power BI, SQL, Python e QGIS**.  
