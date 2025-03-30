@@ -90,8 +90,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
 />
 <img 
     align="left" 
-    alt="QGIS" 
-    title="QGIS" 
+    alt="ARCGIS" 
+    title="ARCGIS" 
     width="40px" 
     height="40px" 
     style="padding-right: 10px;" 
