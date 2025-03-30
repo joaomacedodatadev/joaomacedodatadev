@@ -106,12 +106,9 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/Power_automate_logo.png" 
 />
 
-
-
-
-
 <br/>
 <br/>
 
+---
 ## 📂 Projetos  
 Confira meus projetos nos repositórios abaixo!
