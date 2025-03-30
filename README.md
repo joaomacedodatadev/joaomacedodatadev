@@ -30,7 +30,7 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
             style="padding-right: 10px;"
         />
     </a>
-    <a href="https://github.com/joamacedodatadev" target="_blank">
+    <a href="https://github.com/joaomacedodatadev" target="_blank">
         <img 
             alt="GitHub" 
             title="Siga-me no GitHub" 
