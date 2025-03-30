@@ -73,8 +73,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="Excel" 
     title="Excel" 
-    width="40px" 
-    height="40px" 
+    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/excel.png" 
 />
@@ -82,8 +82,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="QGIS" 
     title="QGIS" 
-    width="40px" 
-    height="40px" 
+    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/QGIS_logo_new.svg.png" 
 />
@@ -91,8 +91,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="QGIS" 
     title="QGIS" 
-    width="40px" 
-    height="40px" 
+    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/ArcGIS_logo.png" 
 />
@@ -100,8 +100,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="Power Automate" 
     title="Power Automate" 
-    width="40px" 
-    height="40px" 
+    width="30px" 
+    height="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/Power_automate_logo.png" 
 />
