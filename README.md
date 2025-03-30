@@ -92,8 +92,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="ARCGIS" 
     title="ARCGIS" 
-    width="30px" 
-    height="30px" 
+    width="40px" 
+    height="40px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/ArcGIS_logo.png" 
 />
@@ -101,8 +101,8 @@ Minha missão é transformar **dados em insights valiosos** para impulsionar a *
     align="left" 
     alt="Power Automate" 
     title="Power Automate" 
-    width="30px" 
-    height="30px" 
+    width="40px" 
+    height="40px" 
     style="padding-right: 10px;" 
     src="https://github.com/joaomacedodatadev/Imagens/blob/main/Power_automate_logo.png" 
 />
